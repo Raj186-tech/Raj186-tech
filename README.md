@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rajwinder and I'm a Computer Networking and Cyber Security Student. I am passionate about Cyber Security and Python Programming. I am from INDIA </h2>
+<h2 align="left">Hi 👋! My name is Rajwinder and I'm a Computer Networking and Cyber Security Student. I am passionate about Cyber Security and Python Programming.</h2>
 
 ###
 
@@ -22,9 +22,7 @@
   <img width="12" />
 
 
-###
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
 </div>
 
 ###
